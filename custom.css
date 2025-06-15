@@ -22,7 +22,7 @@
     color: #FAECC5;
     opacity: 0;
     animation: fadeInEffect 1.5s ease-in-out forwards;
-    filter: brightness(1) contrast(1.1) saturate(1.0) drop-shadow(2px 4px 6px black);
+    filter: brightness(1) contrast(1.1) saturate(1.0) drop-shadow(1px 1px 10px black);
 }
 
 @keyframes fadeInEffect {
